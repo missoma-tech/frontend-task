@@ -10,7 +10,7 @@ The page must have the following functions:
 
 Important Information:
 1. Fix the issues in the JSON 
-2. Use the provided example as a guide, but feel free to layout the page as you want
+2. Use the provided example as a guide, but feel free to layout the page as you want - https://github.com/missoma-tech/frontend-task/blob/master/example-layout.jpg
 3. The page should be responsive and fit on a mobile viewport
 4. Send the task in a .zip with instructions on how to view in a browser
 5. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
