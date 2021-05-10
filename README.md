@@ -14,8 +14,9 @@ Important Information:
 2. Use the provided example as a guide, but feel free to layout the page as you want - https://github.com/missoma-tech/frontend-task/blob/master/example-page-layout.jpg
 3. The page should be responsive and fit on a mobile viewport
 4. Send the task in a .zip with instructions on how to view in a browser
-5. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
-6. Be prepared talk about your implementation choices
+5. Avoid using any JS Frameworks like jQuery and try to use VanillaJS 
+6. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
+7. Be prepared talk about your implementation choices
 
 
 # Product Data
