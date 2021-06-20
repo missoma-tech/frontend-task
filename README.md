@@ -10,14 +10,14 @@ The page must have the following functions:
     4. On clicking "Add to Bag", log the selected variant id to the console
 
 Important Information:
-1. Fix the issues in the JSON 
+
+1. Fix the issues in the JSON
 2. Use the provided example as a guide, but feel free to layout the page as you want - https://github.com/missoma-tech/frontend-task/blob/master/example-page-layout.jpg
 3. The page should be responsive and fit on a mobile viewport
 4. Send the task in a .zip with instructions on how to view in a browser
-5. Avoid using any JS Frameworks like jQuery and try to use VanillaJS 
+5. Avoid using any JS Frameworks like jQuery and try to use VanillaJS
 6. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
 7. Be prepared talk about your implementation choices
-
 
 # Product Data
 
@@ -35,7 +35,7 @@ Important Information:
       "title": "18ct Gold Plated/Rainbow Moonstone",
       "available": true,
       "price": 10500,
-      "featured_image": "https://cdn.shopify.com/s/files/1/0280/4603/3028/products/gold-moonstone-square-locket-clip-on-pendant-necklaces-missoma-625053_41097d42-1792-42ce-8c16-085698882ab7_700x.jpg?v=1618498015",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0286/4703/0828/products/engravable-square-locket-clip-on-pendant-necklaces-missoma-18ct-gold-platedrainbow-moonstone-221896.jpg?v=1622577088"
       "option1": "18ct Gold Plated",
       "option2": "Rainbow Moonstone",
       "option3": null
@@ -46,22 +46,22 @@ Important Information:
       "title": "Silver Plated/Pink Pave",
       "available" false,
       "price": 9500,
-      "featured_image": "https://cdn.shopify.com/s/files/1/0280/4603/3028/products/silver-moonstone-square-locket-clip-on-pendant-necklaces-missoma-932830_7a6f661f-ffa8-48cb-a5e3-e9caf285aadb_700x.jpg?v=1618498015",
+      "featured_image": "https://cdn.shopify.com/s/files/1/0286/4703/0828/products/engravable-square-locket-clip-on-pendant-necklaces-missoma-silver-platedrainbow-moonstone-182310.jpg?v=1622579310",
       "option1": "Silver Plated",
       "option2": "Pink Pave",
       "option3": null
     }
     {
-        "id": 789,
-        "name": "Engravable Square Locket Clip-On Pendant - 18ct Gold Plated/Amazonite",
-        "title": "18ct Gold Plated/Amazonite",
-        "available": true,
-        "price": 10100,
-        "featured_image": "https://cdn.shopify.com/s/files/1/0280/4603/3028/products/gold-moonstone-square-locket-clip-on-pendant-necklaces-missoma-158039_96aa87ab-ed42-49c6-86c0-e85432c82f13_1600x.jpg?v=1618498015",
-        "option1": "18ct Gold Plated",
-        "option2": "Amazonite",
-        "option3": null
-      }
+      "id": 789,
+      "name": "Engravable Square Locket Clip-On Pendant - 18ct Gold Plated/Amazonite",
+      "title": "18ct Gold Plated/Amazonite",
+      "available": true,
+      "price": 10100,
+      "featured_image": "https://cdn.shopify.com/s/files/1/0286/4703/0828/products/engravable-square-locket-clip-on-pendant-necklaces-missoma-18ct-gold-platedrainbow-moonstone-221896.jpg?v=1622577088",
+      "option1": "18ct Gold Plated",
+      "option2": "Amazonite",
+      "option3": null
+    }
   ]
 }
 ```
