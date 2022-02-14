@@ -16,8 +16,9 @@ Important Information:
 3. The page should be responsive and fit on a mobile viewport
 4. Send the task in a .zip with instructions on how to view in a browser
 5. Avoid using any JS Frameworks like jQuery and try to use VanillaJS
-6. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
-7. Be prepared talk about your implementation choices
+6. Check the JSON data for errors
+7. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
+8. Be prepared talk about your implementation choices
 
 # Product Data
 
