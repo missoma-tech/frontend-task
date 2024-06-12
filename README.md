@@ -19,6 +19,7 @@ Important Information:
 6. Check the JSON data for errors
 7. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
 8. Be prepared talk about your implementation choices
+9. You do not need to create a Shopify website to complete this task. A simple one pager will suffice.
 
 # Product Data
 
