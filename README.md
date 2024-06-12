@@ -4,7 +4,7 @@ Build a simple product page using the data in the JSON object.
 
 The page must have the following functions:
 
-    1. List all variants on product page
+    1. List all variants on product page using the JSON data
     2. Must be able to select a variant
     3. Replace the relevant variant information and imagery on selecting a variant
     4. On clicking "Add to Bag", log the selected variant id to the console
@@ -19,7 +19,8 @@ Important Information:
 6. Check the JSON data for errors
 7. Don't spend more than 2 hours on this task, if you have questions, please contact your recruiter
 8. Be prepared talk about your implementation choices
-9. You do not need to create a Shopify website to complete this task. A simple one pager will suffice.
+9. You do not need to create a Shopify website to complete this task. A simple one-pager will suffice.
+   
 
 # Product Data
 
